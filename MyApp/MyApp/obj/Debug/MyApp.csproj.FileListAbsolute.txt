@@ -1,0 +1,7 @@
+D:\Curso_CSharp\MyApp\MyApp\bin\Debug\MyApp.exe.config
+D:\Curso_CSharp\MyApp\MyApp\bin\Debug\MyApp.exe
+D:\Curso_CSharp\MyApp\MyApp\bin\Debug\MyApp.pdb
+D:\Curso_CSharp\MyApp\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+D:\Curso_CSharp\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\Curso_CSharp\MyApp\MyApp\obj\Debug\MyApp.exe
+D:\Curso_CSharp\MyApp\MyApp\obj\Debug\MyApp.pdb

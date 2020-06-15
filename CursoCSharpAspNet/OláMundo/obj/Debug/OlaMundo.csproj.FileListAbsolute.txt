@@ -1,0 +1,10 @@
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\bin\Debug\OláMundo.exe.config
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\bin\Debug\OláMundo.exe
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\bin\Debug\OláMundo.pdb
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\obj\Debug\OlaMundo.csprojAssemblyReference.cache
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\obj\Debug\OlaMundo.csproj.CoreCompileInputs.cache
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\obj\Debug\OláMundo.exe
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\obj\Debug\OláMundo.pdb
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\Binários\OláMundo.exe.config
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\Binários\OláMundo.exe
+D:\Curso_CSharp\CursoCSharpAspNet\OláMundo\Binários\OláMundo.pdb
