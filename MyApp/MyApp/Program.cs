@@ -14,7 +14,7 @@ namespace MyApp
             ClasseOlaMundo minhaClasse = new ClasseOlaMundo();
             ClasseOpaBao olaUsuarioInstancia = new ClasseOpaBao(); 
             minhaClasse.EscreverOlaMundo();
-            olaUsuarioInstancia.EscreverOpaBao("Alequin");
+            olaUsuarioInstancia.EscreverOpaBao("Marquin do Gueto");
             Console.ReadKey();
         }
     }
