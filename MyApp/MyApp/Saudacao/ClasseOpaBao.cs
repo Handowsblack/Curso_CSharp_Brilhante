@@ -10,7 +10,7 @@ namespace MyApp.Saudacao
     {
         public void EscreverOpaBao(string pNomeUsuario)
         {
-            Console.WriteLine($"Opa Bão? { pNomeUsuario}");
+            Console.WriteLine($"Opa! Bão { pNomeUsuario}?");
         }
     }
 }
