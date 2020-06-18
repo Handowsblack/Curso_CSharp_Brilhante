@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Júpiter", "Projeto Júpiter.csproj", "{DB20EDEE-EAB4-462B-8B07-166C2EEDEC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB20EDEE-EAB4-462B-8B07-166C2EEDEC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB20EDEE-EAB4-462B-8B07-166C2EEDEC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB20EDEE-EAB4-462B-8B07-166C2EEDEC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB20EDEE-EAB4-462B-8B07-166C2EEDEC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D51EB2C6-19A9-4821-A619-34E906DC95F1}
+	EndGlobalSection
+EndGlobal

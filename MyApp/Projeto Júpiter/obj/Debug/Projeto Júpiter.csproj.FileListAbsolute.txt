@@ -1,0 +1,10 @@
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\obj\Debug\Projeto Júpiter.csprojAssemblyReference.cache
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\obj\Debug\Projeto_Júpiter.Properties.Resources.resources
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\obj\Debug\Projeto Júpiter.csproj.GenerateResource.cache
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\obj\Debug\Projeto Júpiter.csproj.CoreCompileInputs.cache
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\bin\Debug\Projeto_Júpiter.exe.config
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\bin\Debug\Projeto_Júpiter.exe
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\bin\Debug\Projeto_Júpiter.pdb
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\obj\Debug\Projeto_Júpiter.frmLogin.resources
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\obj\Debug\Projeto_Júpiter.exe
+C:\Users\ajgp\Documents\GitHub\Curso_CSharp_Brilhante\MyApp\Projeto Júpiter\obj\Debug\Projeto_Júpiter.pdb
